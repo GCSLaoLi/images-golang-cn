@@ -1,0 +1,5 @@
+services:
+  golang-cn:
+    build: ./golang-cn
+    image: gcslaoli/golang-cn
+    
