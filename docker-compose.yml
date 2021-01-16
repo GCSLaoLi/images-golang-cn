@@ -2,4 +2,7 @@ services:
   golang-cn:
     build: ./golang-cn
     image: gcslaoli/golang-cn
-    
+  golang-cn-aliyun:
+    build: ./golang-cn
+    image: registry.cn-beijing.aliyuncs.com/gcslaoli/golang-cn
+        
